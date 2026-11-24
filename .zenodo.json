@@ -1,0 +1,15 @@
+{
+  "title": "Code for Estimating time-lapse CO2 saturation from vertical seismic profile data through multiparameter elastic full-waveform inversion",
+  "upload_type": "software",
+  "version": "v1.0.0",
+  "description": "Elastic full-waveform inversion (PyTorch) and rock-physics inversion (MATLAB) codes.",
+  "creators": [
+    {"name": "Cai, Xiaohui", "affiliation": "University of Calgary"},
+    {"name": "Hu, Qi", "affiliation": "Stanford University"},
+    {"name": "Zhang, Tianze", "affiliation": "University of Calgary"},
+    {"name": "Innanen, Kristopher", "affiliation": "University of Calgary"}
+  ],
+  "keywords": ["full-waveform inversion", "time-lapse", "VSP", "CO2 monitoring", "rock physics"],
+  "license": "mit"
+}
+
